@@ -1,4 +1,8 @@
-# 🟩 RevivalMC
+<p align="center">
+  <img src="RVVL.png" alt="RevivalMC" width="180">
+</p>
+
+# RevivalMC
 
 Official development organization for **RevivalMC**.
 
@@ -21,4 +25,5 @@ Most repositories are private and maintained internally by the RevivalMC develop
 
 ## 🌐 Links
 - Website: https://revivalmc.net
+- Server IP: play.revivalmc.net
 - Contact: admin@revivalmc.net
